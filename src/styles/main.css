@@ -1,0 +1,16 @@
+.questions{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+.ask_main{
+    text-align: center;
+    display: inline-block;
+}
+.ask{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: green;
+    font-weight: bold;
+    line-height: 50px;
+}
